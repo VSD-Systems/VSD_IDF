@@ -66,13 +66,6 @@ git lfs install
 
 ---
 
-## Documentation 📚  
-- [**THEJAS32 Datasheet**](docs/THEJAS32_DATASHEET.md) - CPU specs and peripherals  
-- [**BSP Customization**](docs/BSP_GUIDE.md) - Adapting to VSDSquadron Ultra/VSD32-S3  
-- [**WiFi/BLE Setup**](docs/CONNECTIVITY.md) - Configuring Ai-Thinker & ESP32-C3  
-
----
-
 ## Roadmap 🗺️  
 - **Phase 1**: VSDSquadron Ultra BSP release  
 - **Phase 2**: VSD32-S3 integration  
