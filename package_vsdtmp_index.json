@@ -3,10 +3,10 @@
 	{
 	    "name": "VSD",
 	    "maintainer": "VSD",
-	    "websiteURL": "https://www.vlsisystemdesign.com/",
+	    "websiteURL": "https://vegaprocessors.in/",
 	    "email": "", 
 	    "help": {
-		"online": "https://github.com/VSD-Systems/"
+		"online": "https://cdac-vega.gitlab.io/"
 	    },
 	    "platforms": [
 		{
