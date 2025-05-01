@@ -1,17 +1,17 @@
 {
     "packages": [
 	{
-	    "name": "vsd",
-	    "maintainer": "C-DAC",
-	    "websiteURL": "https://vegaprocessors.in/",
+	    "name": "VSD",
+	    "maintainer": "VSD",
+	    "websiteURL": "https://www.vlsisystemdesign.com/",
 	    "email": "", 
 	    "help": {
-		"online": "https://cdac-vega.gitlab.io/"
+		"online": "https://github.com/VSD-Systems/"
 	    },
 	    "platforms": [
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD RISCV Boards",
 		    "version": "1.0.0",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-aa7ccc12f7a736132e2fee6cbe4ebce9582aa216.tar.bz2",
 		    "checksum": "SHA-256:65ea4245a2be218245b980346126ba389657a4834bc90c1121bcba04ac9cf37b",
