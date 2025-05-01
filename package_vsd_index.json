@@ -1,21 +1,21 @@
 {
     "packages": [
 	{
-	    "name": "vega",
-	    "maintainer": "C-DAC",
-	    "websiteURL": "https://vegaprocessors.in/",
+	    "name": "VSD",
+	    "maintainer": "VSD",
+	    "websiteURL": "https://www.vlsisystemdesign.com/",
 	    "email": "", 
 	    "help": {
-		"online": "https://cdac-vega.gitlab.io/"
+		"online": "https://github.com/VSD-Systems"
 	    },
 	    "platforms": [
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD RISC-V Boards",
 		    "version": "1.0.0",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-aa7ccc12f7a736132e2fee6cbe4ebce9582aa216.tar.bz2",
 		    "checksum": "SHA-256:65ea4245a2be218245b980346126ba389657a4834bc90c1121bcba04ac9cf37b",
-		    "archiveFileName": "vega-bsp-main.tar.bz2",
+		    "archiveFileName": "vsd-bsp-main.tar.bz2",
 		    "size": "68112",
 		    "architecture": "riscv",
 		    "boards": [
@@ -26,24 +26,24 @@
 		    ], 
 		    "toolsDependencies": [
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "riscv64-vega-elf-gcc"
+			    "name": "riscv64-vsd-elf-gcc"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "vegaxmodem"
+			    "name": "vsdxmodem"
 			}
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD RISC-V Boards",
 		    "version": "1.0.1",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-d6411b215535fed7d5185bb0622547b180836b23.tar.bz2",
 		    "checksum": "SHA-256:23ef09c8039fe71d1ebedcaf72a454007286acb667d27de9e1bcb09bb13f459b",
-		    "archiveFileName": "vega-bsp-main.tar.bz2",
+		    "archiveFileName": "vsd-bsp-main.tar.bz2",
 		    "size": "437631",
 		    "architecture": "riscv",
 		    "boards": [
@@ -54,29 +54,29 @@
 		    ], 
 		    "toolsDependencies": [
 			{
-				"packager": "vega",
+				"packager": "vsd",
 			    "version": "001",
-			    "name": "riscv64-vega-elf-gcc"
+			    "name": "riscv64-vsd-elf-gcc"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "vegaxmodem"
+			    "name": "vsdxmodem"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "vegaflasher"
+			    "name": "vsdflasher"
 			}
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD RISC-V Boards",
 		    "version": "1.0.2",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-a9d5ca938f46e6e5866de17635199f1b9deba99d.tar.bz2",
 		    "checksum": "SHA-256:ce590d372360f88577e7aa26268d679925e04a03de18473191be2ef015ffe441",
-		    "archiveFileName": "vega-bsp-a9d5ca938f46e6e5866de17635199f1b9deba99d.tar.bz2",
+		    "archiveFileName": "vsd-bsp-a9d5ca938f46e6e5866de17635199f1b9deba99d.tar.bz2",
 		    "size": "445477",
 		    "architecture": "riscv",
 		    "boards": [
@@ -87,29 +87,29 @@
 		    ], 
 		    "toolsDependencies": [
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "riscv64-vega-elf-gcc"
+			    "name": "riscv64-vsd-elf-gcc"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "vegaxmodem"
+			    "name": "vsdxmodem"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "vegaflasher"
+			    "name": "vsdflasher"
 			}
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD RISC-V Boards",
 		    "version": "1.0.3",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
 		    "checksum": "SHA-256:9876c8489aa77ca7250c22f3f403ad4bb74e6f7f8696086d69413e21536aa5af",
-		    "archiveFileName": "vega-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
+		    "archiveFileName": "vsd-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
 		    "size": "451846",
 		    "architecture": "riscv",
 		    "boards": [
@@ -120,29 +120,29 @@
 		    ], 
 		    "toolsDependencies": [
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "riscv64-vega-elf-gcc"
+			    "name": "riscv64-vsd-elf-gcc"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaxmodem"
+			    "name": "vsdxmodem"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaflasher"
+			    "name": "vsdflasher"
 			}
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD RISC-V Boards",
 		    "version": "1.0.4",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
 		    "checksum": "SHA-256:9876c8489aa77ca7250c22f3f403ad4bb74e6f7f8696086d69413e21536aa5af",
-		    "archiveFileName": "vega-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
+		    "archiveFileName": "vsd-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
 		    "size": "451846",
 		    "architecture": "riscv",
 		    "boards": [
@@ -153,29 +153,29 @@
 		    ], 
 		    "toolsDependencies": [
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "riscv64-vega-elf-gcc"
+			    "name": "riscv64-vsd-elf-gcc"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaxmodem"
+			    "name": "vsdxmodem"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaflasher"
+			    "name": "vsdflasher"
 			}
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD RISC-V Boards",
 		    "version": "1.0.5",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-44236144d7ec05474340c47f255303c31122adcc.tar.bz2",
 		    "checksum": "SHA-256:de1ed1af22b5faf553ba7f1c963d92eb0b1f66018dc703db49e67c20d872543c",
-		    "archiveFileName": "vega-bsp-44236144d7ec05474340c47f255303c31122adcc.tar.bz2",
+		    "archiveFileName": "vsd-bsp-44236144d7ec05474340c47f255303c31122adcc.tar.bz2",
 		    "size": "432111",
 		    "architecture": "riscv",
 		    "boards": [
@@ -186,29 +186,29 @@
 		    ], 
 		    "toolsDependencies": [
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "riscv64-vega-elf-gcc"
+			    "name": "riscv64-vsd-elf-gcc"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaxmodem"
+			    "name": "vsdxmodem"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaflasher"
+			    "name": "vsdflasher"
 			}
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD RISC-V Boards",
 		    "version": "1.0.6",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-2d9750226cea7209f7e13b6422db96378439540f.tar.bz2",
 		    "checksum": "SHA-256:22d3d0e6c0c18a25f2bdfb9192387df5a06c86e344253713f6120730b424746a",
-		    "archiveFileName": "vega-bsp-2d9750226cea7209f7e13b6422db96378439540f.tar.bz2",
+		    "archiveFileName": "vsd-bsp-2d9750226cea7209f7e13b6422db96378439540f.tar.bz2",
 		    "size": "475945",
 		    "architecture": "riscv",
 		    "boards": [
@@ -219,29 +219,29 @@
 		    ], 
 		    "toolsDependencies": [
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "riscv64-vega-elf-gcc"
+			    "name": "riscv64-vsd-elf-gcc"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaxmodem"
+			    "name": "vsdxmodem"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaflasher"
+			    "name": "vsdflasher"
 			}
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD RISC-V Boards",
 		    "version": "1.0.7",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e256503c29e7833f32b9bfe0634170cfdce07f97adb60a36ffa216ee6eb87650",
-		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "archiveFileName": "vsd-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "size": "429987",
 		    "architecture": "riscv",
 		    "boards": [
@@ -253,19 +253,19 @@
 		    ], 
 		    "toolsDependencies": [
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "001",
-			    "name": "riscv64-vega-elf-gcc"
+			    "name": "riscv64-vsd-elf-gcc"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaxmodem"
+			    "name": "vsdxmodem"
 			},
 			{
-			    "packager": "vega",
+			    "packager": "vsd",
 			    "version": "002",
-			    "name": "vegaflasher"
+			    "name": "vsdflasher"
 			}
 		    ]
 		}
@@ -273,135 +273,135 @@
 	    "tools": [
 		{
 		    "version": "001",
-		    "name": "riscv64-vega-elf-gcc",
+		    "name": "riscv64-vsd-elf-gcc",
 		    "systems": [
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/riscv64-vega-elf-gcc/vega-tools-main.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/riscv64-vsd-elf-gcc/vsd-tools-main.tar.bz2",
 			    "checksum": "SHA-256:e2a7a87e60f8c21870405315887a4c67a1f90bc5d4ae71ca53e1d056a9510c32",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "vega-tools-main.tar.bz2",
+			    "archiveFileName": "vsd-tools-main.tar.bz2",
 			    "size": "395389010"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/riscv64-vega-elf-gcc/vega-tools-windows-main.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/riscv64-vsd-elf-gcc/vsd-tools-windows-main.tar.bz2",
 			    "checksum": "SHA-256:18c05e99265ed13cb07fe53fe1acefcc08bc9fe6c1223b72077306c306161b0d",
 			    "host": "i686-mingw32",
-			    "archiveFileName": "vega-tools-windows-main.tar.bz2",
+			    "archiveFileName": "vsd-tools-windows-main.tar.bz2",
 			    "size": "73681978"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/riscv64-vega-elf-gcc/vega-tools-windows-main.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/riscv64-vsd-elf-gcc/vsd-tools-windows-main.tar.bz2",
 			    "checksum": "SHA-256:18c05e99265ed13cb07fe53fe1acefcc08bc9fe6c1223b72077306c306161b0d",
 			    "host": "x86_64-mingw32",
-			    "archiveFileName": "vega-tools-windows-main.tar.bz2",
+			    "archiveFileName": "vsd-tools-windows-main.tar.bz2",
 			    "size": "73681978"
 			}
 		    ]
 		},
 		{
 			"version": "001",
-		    "name": "vegaxmodem",
+		    "name": "vsdxmodem",
 		    "systems": [
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaxmodem/version001/vega-xmodem-642f4bec3a4b4585b510dfe8b08a7ff105402bc9.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdxmodem/version001/vsd-xmodem-642f4bec3a4b4585b510dfe8b08a7ff105402bc9.tar.bz2",
 			    "checksum": "SHA-256:ce55e4ba99672b1ec3de31a3b86cf24c093684995e74a5626a259e1721b4d395",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "vega-xmodem-642f4bec3a4b4585b510dfe8b08a7ff105402bc9.tar.bz2",
+			    "archiveFileName": "vsd-xmodem-642f4bec3a4b4585b510dfe8b08a7ff105402bc9.tar.bz2",
 			    "size": "7897"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaxmodem/version001/vega-xmodem-windows-e17ecc22dee72e2fe74738da3c1e6a8b7efd2ab8.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdxmodem/version001/vsd-xmodem-windows-e17ecc22dee72e2fe74738da3c1e6a8b7efd2ab8.tar.bz2",
 			    "checksum": "SHA-256:5f7dc67074ba90d1f922c6164487f96c3dd5422baec33ecde7ea0ecfdb519c2e",
 			    "host": "i686-mingw32",
-			    "archiveFileName": "vega-xmodem-windows-e17ecc22dee72e2fe74738da3c1e6a8b7efd2ab8.tar.bz2",
+			    "archiveFileName": "vsd-xmodem-windows-e17ecc22dee72e2fe74738da3c1e6a8b7efd2ab8.tar.bz2",
 			    "size": "7060368"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaxmodem/version001/vega-xmodem-windows-e17ecc22dee72e2fe74738da3c1e6a8b7efd2ab8.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdxmodem/version001/vsd-xmodem-windows-e17ecc22dee72e2fe74738da3c1e6a8b7efd2ab8.tar.bz2",
 			    "checksum": "SHA-256:5f7dc67074ba90d1f922c6164487f96c3dd5422baec33ecde7ea0ecfdb519c2e",
 			    "host": "x86_64-mingw32",
-			    "archiveFileName": "vega-xmodem-windows-e17ecc22dee72e2fe74738da3c1e6a8b7efd2ab8.tar.bz2",
+			    "archiveFileName": "vsd-xmodem-windows-e17ecc22dee72e2fe74738da3c1e6a8b7efd2ab8.tar.bz2",
 			    "size": "7060368"
 			}
 		    ]
 		},
 		{
 			"version": "002",
-		    "name": "vegaxmodem",
+		    "name": "vsdxmodem",
 		    "systems": [
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaxmodem/version002/vega-xmodem-663a9fd0e97e870edab280b37274c9a6a1528a75.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdxmodem/version002/vsd-xmodem-663a9fd0e97e870edab280b37274c9a6a1528a75.tar.bz2",
 			    "checksum": "SHA-256:f89cc4bbf36e1eceab5617fdcdd153ec0a9aabf89cc1cac7003ce6e8b9192064",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "vega-xmodem-663a9fd0e97e870edab280b37274c9a6a1528a75.tar.bz2",
+			    "archiveFileName": "vsd-xmodem-663a9fd0e97e870edab280b37274c9a6a1528a75.tar.bz2",
 			    "size": "369500"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaxmodem/version002/vega-xmodem-windows-52083c47d57a10a13f672e0e45784d3a1b6f0ae9.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdxmodem/version002/vsd-xmodem-windows-52083c47d57a10a13f672e0e45784d3a1b6f0ae9.tar.bz2",
 			    "checksum": "SHA-256:7d43434d3db048953f6464fc885d577dc909d2f45763b166e9741292e69f76a1",
 			    "host": "i686-mingw32",
-			    "archiveFileName": "vega-xmodem-windows-52083c47d57a10a13f672e0e45784d3a1b6f0ae9.tar.bz2",
+			    "archiveFileName": "vsd-xmodem-windows-52083c47d57a10a13f672e0e45784d3a1b6f0ae9.tar.bz2",
 			    "size": "12760405"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaxmodem/version002/vega-xmodem-windows-52083c47d57a10a13f672e0e45784d3a1b6f0ae9.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdxmodem/version002/vsd-xmodem-windows-52083c47d57a10a13f672e0e45784d3a1b6f0ae9.tar.bz2",
 			    "checksum": "SHA-256:7d43434d3db048953f6464fc885d577dc909d2f45763b166e9741292e69f76a1",
 			    "host": "x86_64-mingw32",
-			    "archiveFileName": "vega-xmodem-windows-52083c47d57a10a13f672e0e45784d3a1b6f0ae9.tar.bz2",
+			    "archiveFileName": "vsd-xmodem-windows-52083c47d57a10a13f672e0e45784d3a1b6f0ae9.tar.bz2",
 			    "size": "12760405"
 			}
 		    ]
 		},
 		{
 			"version": "001",
-		    "name": "vegaflasher",
+		    "name": "vsdflasher",
 		    "systems": [
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaflasher/version001/vega-flasher-f460bc312e409025b99f45bcd89f518d4a3a1a7d.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdflasher/version001/vsd-flasher-f460bc312e409025b99f45bcd89f518d4a3a1a7d.tar.bz2",
 			    "checksum": "SHA-256:1f59f48554e6a1082bbb8f8f92045e9de9e2b839e8b30fb843eabf6e602aa3f1",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "vega-flasher-f460bc312e409025b99f45bcd89f518d4a3a1a7d.tar.bz2",
+			    "archiveFileName": "vsd-flasher-f460bc312e409025b99f45bcd89f518d4a3a1a7d.tar.bz2",
 			    "size": "8037"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaflasher/version001/vega-flasher-windows-e63bec13649de7b33c681932f777568b645da949.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdflasher/version001/vsd-flasher-windows-e63bec13649de7b33c681932f777568b645da949.tar.bz2",
 			    "checksum": "SHA-256:1914a14bb7ffc1c15b8e321eacd49632767e05b84d12b27b9ff06ada778dcf02",
 			    "host": "x86_64-mingw32",
-			    "archiveFileName": "vega-flasher-windows-e63bec13649de7b33c681932f777568b645da949.tar.bz2",
+			    "archiveFileName": "vsd-flasher-windows-e63bec13649de7b33c681932f777568b645da949.tar.bz2",
 			    "size": "7070918"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaflasher/version001/vega-flasher-windows-e63bec13649de7b33c681932f777568b645da949.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdflasher/version001/vsd-flasher-windows-e63bec13649de7b33c681932f777568b645da949.tar.bz2",
 			    "checksum": "SHA-256:1914a14bb7ffc1c15b8e321eacd49632767e05b84d12b27b9ff06ada778dcf02",
 			    "host": "i686-mingw32",
-			    "archiveFileName": "vega-flasher-windows-e63bec13649de7b33c681932f777568b645da949.tar.bz2",
+			    "archiveFileName": "vsd-flasher-windows-e63bec13649de7b33c681932f777568b645da949.tar.bz2",
 			    "size": "7070918"
 			}
 		    ]
 		},
 		{
 			"version": "002",
-		    "name": "vegaflasher",
+		    "name": "vsdflasher",
 		    "systems": [
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaflasher/version002/vega-flasher-788b4f95439ffdbadeba52dddd522b7da4c7a452.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdflasher/version002/vsd-flasher-788b4f95439ffdbadeba52dddd522b7da4c7a452.tar.bz2",
 			    "checksum": "SHA-256:99a096a54f31148434d730c0dc08bd36149f4755c2709edf70f198b9ae124ff3",
 			    "host": "x86_64-pc-linux-gnu",
-			    "archiveFileName": "vega-flasher-788b4f95439ffdbadeba52dddd522b7da4c7a452.tar.bz2",
+			    "archiveFileName": "vsd-flasher-788b4f95439ffdbadeba52dddd522b7da4c7a452.tar.bz2",
 			    "size": "369545"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaflasher/version002/vega-flasher-windows-f63bea20a8774d6e777545e4b7cfdace89cfd44b.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdflasher/version002/vsd-flasher-windows-f63bea20a8774d6e777545e4b7cfdace89cfd44b.tar.bz2",
 			    "checksum": "SHA-256:67a91574591e1ed6b8639202f976e7b08c7dd4392ae6836c33bb4c8807fcf88b",
 			    "host": "x86_64-mingw32",
-			    "archiveFileName": "vega-flasher-windows-f63bea20a8774d6e777545e4b7cfdace89cfd44b.tar.bz2",
+			    "archiveFileName": "vsd-flasher-windows-f63bea20a8774d6e777545e4b7cfdace89cfd44b.tar.bz2",
 			    "size": "12770385"
 			},
 			{
-			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vegaflasher/version002/vega-flasher-windows-f63bea20a8774d6e777545e4b7cfdace89cfd44b.tar.bz2",
+			    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/tools/vsdflasher/version002/vsd-flasher-windows-f63bea20a8774d6e777545e4b7cfdace89cfd44b.tar.bz2",
 			    "checksum": "SHA-256:67a91574591e1ed6b8639202f976e7b08c7dd4392ae6836c33bb4c8807fcf88b",
 			    "host": "i686-mingw32",
-			    "archiveFileName": "vega-flasher-windows-f63bea20a8774d6e777545e4b7cfdace89cfd44b.tar.bz2",
+			    "archiveFileName": "vsd-flasher-windows-f63bea20a8774d6e777545e4b7cfdace89cfd44b.tar.bz2",
 			    "size": "12770385"
 			}
 		    ]
