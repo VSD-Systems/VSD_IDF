@@ -236,8 +236,8 @@
 		    ]
 		},
 		{
-		    "category": "VSD",
-		    "name": "VSD RISC-V Boards",
+		    "category": "C-DAC",
+		    "name": "VEGA ARIES Boards",
 		    "version": "1.0.7",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e256503c29e7833f32b9bfe0634170cfdce07f97adb60a36ffa216ee6eb87650",
