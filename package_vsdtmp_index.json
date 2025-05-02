@@ -2,11 +2,11 @@
     "packages": [
 	{
 	    "name": "vega",
-	    "maintainer": "C-DAC",
+	    "maintainer": "VLSI System Design (VSD)",
 	    "websiteURL": "https://www.vlsisystemdesign.com/",
 	    "email": "", 
 	    "help": {
-		"online": "https://cdac-vega.gitlab.io/"
+		"online": "https://github.com/VSD-Systems/VSD_IDF/"
 	    },
 	    "platforms": [
 		{
@@ -19,12 +19,7 @@
 		    "size": "437100",
 		    "architecture": "riscv",
 		    "boards": [
-			{"name": "VSDSquadron Ultra"},
-			{"name": "ARIES v2"},
-			{"name": "ARIES Micro v1"},
-			{"name": "ARIES IoT v1"},
-			{"name": "ARIES IoT v2"},
-			{"name": "ARIES v3"} 
+			{"name": "VSDSquadron Ultra"} 
 		    ], 
 		    "toolsDependencies": [
 			{
