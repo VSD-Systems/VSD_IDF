@@ -15,7 +15,7 @@
 		    "version": "1.0.0",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-d6411b215535fed7d5185bb0622547b180836b23.tar.bz2",
 		    "checksum": "SHA-256:abcf31c75a1c100c627ac1845d644e67ac9f50881521337b7170a5d154a3f2d3",
-		    "archiveFileName": "vsd-bsp-02052025.tar.bz2",
+		    "archiveFileName": "vsd-bsp-d6411b215535fed7d5185bb0622547b180836b23.tar.bz2",
 		    "size": "438558",
 		    "architecture": "riscv",
 		    "boards": [
