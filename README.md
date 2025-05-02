@@ -43,7 +43,7 @@ VSD-IDF is a flexible IoT framework optimized for **VSD RISC-V boards**, featuri
 ### 1. Install in Arduino IDE  
 1. Add this URL to **File > Preferences > Additional Boards Manager URLs**:  
    ```  
-   https://github.com/VSD-Systems/VSD_IDF/raw/main/package_vega_index.json  
+   https://raw.githubusercontent.com/VSD-Systems/VSD_IDF/refs/heads/main/package_vsdtmp_index.json  
    ```  
 2. Install **"VEGA ARIES Boards"** via **Tools > Board > Boards Manager** (current test platform).  
 
