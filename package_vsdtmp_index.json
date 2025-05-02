@@ -14,9 +14,9 @@
 		    "name": "VSD RISCV Boards",
 		    "version": "1.0.0",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/main/platforms/vsd-bsp-02052025.tar.bz2",
-		    "checksum": "SHA-256:1106f756a27de02960542373f26e43179f955695fc01ee2d9fbe36a01ba4d247",
+		    "checksum": "SHA-256:1da3cafd46a99bc9a369f27adc689fb0dba164cf319f87639ba0cfcdbbbf1a8d",
 		    "archiveFileName": "vsd-bsp-02052025.tar.bz2",
-		    "size": "429332",
+		    "size": "438470",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "VSDSquadron Ultra"},
