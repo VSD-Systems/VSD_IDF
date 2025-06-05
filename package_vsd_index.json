@@ -240,9 +240,9 @@
 		    "name": "VEGA ARIES Boards",
 		    "version": "1.0.7",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
-		    "checksum": "SHA-256:e256503c29e7833f32b9bfe0634170cfdce07f97adb60a36ffa216ee6eb87650",
+		    "checksum": "SHA-256:b21eb63d4d382b1bdab26ac49df793f2b96ffda456ada7ce686c7ac3f3d5c820",
 		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
-		    "size": "429987",
+		    "size": "436647",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "ARIES v2"},
