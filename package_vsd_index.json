@@ -240,16 +240,16 @@
 		    "name": "VEGA ARIES Boards",
 		    "version": "1.0.7",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
-		    "checksum": "SHA-256:14a8ec99e314b53834208edc20138106da87cd98529de0d996957c6e808870e1",
+		    "checksum": "SHA-256:fcc366d06839bc60f09f905e06e4d756b73af38c3d90d9f709e1e802e814c864",
 		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
-		    "size": "435705",
+		    "size": "435730",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "ARIES v2"},
 			{"name": "ARIES Micro v1"},
 			{"name": "ARIES IoT v1"},
 			{"name": "ARIES IoT v2"},
-			{"name": "ARIES V3"} 
+			{"name": "VSD32-S3"} 
 		    ], 
 		    "toolsDependencies": [
 			{
