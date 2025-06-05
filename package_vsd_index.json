@@ -22,7 +22,7 @@
 			{"name": "ARIES v2"},
 			{"name": "ARIES Micro v1"},
 			{"name": "ARIES IoT v1"},
-			{"name": "ARIES v3"} 
+			{"name": "VSD32-S3"} 
 		    ], 
 		    "toolsDependencies": [
 			{
@@ -41,16 +41,16 @@
 		    "category": "C-DAC",
 		    "name": "VEGA ARIES Boards",
 		    "version": "1.0.1",
-		    "url": "https://gitlab.com/riscv-vega/vega-bsp/-/archive/d6411b215535fed7d5185bb0622547b180836b23/vega-bsp-d6411b215535fed7d5185bb0622547b180836b23.tar.bz2",
-		    "checksum": "SHA-256:23ef09c8039fe71d1ebedcaf72a454007286acb667d27de9e1bcb09bb13f459b",
-		    "archiveFileName": "vega-bsp-main.tar.bz2",
-		    "size": "437631",
+		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "checksum": "SHA-256:fcc366d06839bc60f09f905e06e4d756b73af38c3d90d9f709e1e802e814c864",
+		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "size": "435730",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "ARIES v2"},
 			{"name": "ARIES Micro v1"},
 			{"name": "ARIES IoT v1"},
-			{"name": "ARIES v3"} 
+			{"name": "VSD32-S3"} 
 		    ], 
 		    "toolsDependencies": [
 			{
@@ -74,16 +74,16 @@
 		    "category": "C-DAC",
 		    "name": "VEGA ARIES Boards",
 		    "version": "1.0.2",
-		    "url": "https://gitlab.com/riscv-vega/vega-bsp/-/archive/a9d5ca938f46e6e5866de17635199f1b9deba99d/vega-bsp-a9d5ca938f46e6e5866de17635199f1b9deba99d.tar.bz2",
-		    "checksum": "SHA-256:ce590d372360f88577e7aa26268d679925e04a03de18473191be2ef015ffe441",
-		    "archiveFileName": "vega-bsp-a9d5ca938f46e6e5866de17635199f1b9deba99d.tar.bz2",
-		    "size": "445477",
+		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "checksum": "SHA-256:fcc366d06839bc60f09f905e06e4d756b73af38c3d90d9f709e1e802e814c864",
+		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "size": "435730",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "ARIES v2"},
 			{"name": "ARIES Micro v1"},
 			{"name": "ARIES IoT v1"},
-			{"name": "ARIES v3"} 
+			{"name": "VSD32-S3"} 
 		    ], 
 		    "toolsDependencies": [
 			{
@@ -107,16 +107,16 @@
 		    "category": "C-DAC",
 		    "name": "VEGA ARIES Boards",
 		    "version": "1.0.3",
-		    "url": "https://gitlab.com/riscv-vega/vega-bsp/-/archive/9e32309399b2fddd792bff4a639a95019ad7a425/vega-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
-		    "checksum": "SHA-256:9876c8489aa77ca7250c22f3f403ad4bb74e6f7f8696086d69413e21536aa5af",
-		    "archiveFileName": "vega-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
-		    "size": "451846",
+		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "checksum": "SHA-256:fcc366d06839bc60f09f905e06e4d756b73af38c3d90d9f709e1e802e814c864",
+		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "size": "435730",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "ARIES v2"},
 			{"name": "ARIES Micro v1"},
 			{"name": "ARIES IoT v1"},
-			{"name": "ARIES v3"} 
+			{"name": "VSD32-S3"} 
 		    ], 
 		    "toolsDependencies": [
 			{
@@ -140,16 +140,16 @@
 		    "category": "C-DAC",
 		    "name": "VEGA ARIES Boards",
 		    "version": "1.0.4",
-		    "url": "https://gitlab.com/riscv-vega/vega-bsp/-/archive/9e32309399b2fddd792bff4a639a95019ad7a425/vega-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
-		    "checksum": "SHA-256:9876c8489aa77ca7250c22f3f403ad4bb74e6f7f8696086d69413e21536aa5af",
-		    "archiveFileName": "vega-bsp-9e32309399b2fddd792bff4a639a95019ad7a425.tar.bz2",
-		    "size": "451846",
+		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "checksum": "SHA-256:fcc366d06839bc60f09f905e06e4d756b73af38c3d90d9f709e1e802e814c864",
+		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "size": "435730",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "ARIES v2"},
 			{"name": "ARIES Micro v1"},
 			{"name": "ARIES IoT v1"},
-			{"name": "ARIES v3"} 
+			{"name": "VSD32-S3"} 
 		    ], 
 		    "toolsDependencies": [
 			{
@@ -173,16 +173,16 @@
 		    "category": "C-DAC",
 		    "name": "VEGA ARIES Boards",
 		    "version": "1.0.5",
-		    "url": "https://gitlab.com/riscv-vega/vega-bsp/-/archive/44236144d7ec05474340c47f255303c31122adcc/vega-bsp-44236144d7ec05474340c47f255303c31122adcc.tar.bz2",
-		    "checksum": "SHA-256:de1ed1af22b5faf553ba7f1c963d92eb0b1f66018dc703db49e67c20d872543c",
-		    "archiveFileName": "vega-bsp-44236144d7ec05474340c47f255303c31122adcc.tar.bz2",
-		    "size": "432111",
+		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "checksum": "SHA-256:fcc366d06839bc60f09f905e06e4d756b73af38c3d90d9f709e1e802e814c864",
+		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "size": "435730",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "ARIES v2"},
 			{"name": "ARIES Micro v1"},
 			{"name": "ARIES IoT v1"},
-			{"name": "ARIES v3"} 
+			{"name": "VSD32-S3"} 
 		    ], 
 		    "toolsDependencies": [
 			{
@@ -206,16 +206,16 @@
 		    "category": "C-DAC",
 		    "name": "VEGA ARIES Boards",
 		    "version": "1.0.6",
-		    "url": "https://gitlab.com/riscv-vega/vega-bsp/-/archive/2d9750226cea7209f7e13b6422db96378439540f/vega-bsp-2d9750226cea7209f7e13b6422db96378439540f.tar.bz2",
-		    "checksum": "SHA-256:22d3d0e6c0c18a25f2bdfb9192387df5a06c86e344253713f6120730b424746a",
-		    "archiveFileName": "vega-bsp-2d9750226cea7209f7e13b6422db96378439540f.tar.bz2",
-		    "size": "475945",
+		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "checksum": "SHA-256:fcc366d06839bc60f09f905e06e4d756b73af38c3d90d9f709e1e802e814c864",
+		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
+		    "size": "435730",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "ARIES v2"},
 			{"name": "ARIES Micro v1"},
 			{"name": "ARIES IoT v1"},
-			{"name": "ARIES v3"} 
+			{"name": "VSD32-S3"} 
 		    ], 
 		    "toolsDependencies": [
 			{
