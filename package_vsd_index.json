@@ -249,7 +249,7 @@
 			{"name": "ARIES Micro v1"},
 			{"name": "ARIES IoT v1"},
 			{"name": "ARIES IoT v2"},
-			{"name": "ARIES v3"} 
+			{"name": "VSD32-S3"} 
 		    ], 
 		    "toolsDependencies": [
 			{
