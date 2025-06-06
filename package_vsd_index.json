@@ -2,16 +2,16 @@
     "packages": [
 	{
 	    "name": "vega",
-	    "maintainer": "C-DAC",
-	    "websiteURL": "https://vegaprocessors.in/",
+	    "maintainer": "VSD",
+	    "websiteURL": "https://www.vlsisystemdesign.com/",
 	    "email": "", 
 	    "help": {
-		"online": "https://cdac-vega.gitlab.io/"
+		"online": "https://github.com/VSD-Systems/VSD_IDF"
 	    },
 	    "platforms": [
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD32 Boards",
 		    "version": "1.0.0",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e419eab9cf063ac3ae9a4303085e3eca102230ea872d0fcae28afaced3facb95",
@@ -38,8 +38,8 @@
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD32 Boards",
 		    "version": "1.0.1",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e419eab9cf063ac3ae9a4303085e3eca102230ea872d0fcae28afaced3facb95",
@@ -71,8 +71,8 @@
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD32 Boards",
 		    "version": "1.0.2",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e419eab9cf063ac3ae9a4303085e3eca102230ea872d0fcae28afaced3facb95",
@@ -104,8 +104,8 @@
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD32 Boards",
 		    "version": "1.0.3",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e419eab9cf063ac3ae9a4303085e3eca102230ea872d0fcae28afaced3facb95",
@@ -137,8 +137,8 @@
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD32 Boards",
 		    "version": "1.0.4",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e419eab9cf063ac3ae9a4303085e3eca102230ea872d0fcae28afaced3facb95",
@@ -170,8 +170,8 @@
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD32 Boards",
 		    "version": "1.0.5",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e419eab9cf063ac3ae9a4303085e3eca102230ea872d0fcae28afaced3facb95",
@@ -203,8 +203,8 @@
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD32 Boards",
 		    "version": "1.0.6",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e419eab9cf063ac3ae9a4303085e3eca102230ea872d0fcae28afaced3facb95",
@@ -236,8 +236,8 @@
 		    ]
 		},
 		{
-		    "category": "C-DAC",
-		    "name": "VEGA ARIES Boards",
+		    "category": "VSD",
+		    "name": "VSD32 Boards",
 		    "version": "1.0.7",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
 		    "checksum": "SHA-256:e419eab9cf063ac3ae9a4303085e3eca102230ea872d0fcae28afaced3facb95",
