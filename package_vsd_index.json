@@ -14,9 +14,9 @@
 		    "name": "VSD32 Boards",
 		    "version": "1.0.0",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
-		    "checksum": "SHA-256:e419eab9cf063ac3ae9a4303085e3eca102230ea872d0fcae28afaced3facb95",
+		    "checksum": "SHA-256:e6cea28ca299a5523e52c0a5a9614dfae261ab9189f8a0a7d13980238fec172e",
 		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
-		    "size": "435739",
+		    "size": "435937",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "VSD32-S3"} 
