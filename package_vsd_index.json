@@ -14,9 +14,9 @@
 		    "name": "VSDSquadron Boards",
 		    "version": "1.0.0",
 		    "url": "https://github.com/VSD-Systems/VSD_IDF/raw/refs/heads/main/platforms/vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
-		    "checksum": "SHA-256:e6cea28ca299a5523e52c0a5a9614dfae261ab9189f8a0a7d13980238fec172e",
+		    "checksum": "SHA-256:e66064dc531d645f4933e9c1df642ce996a5f1cec26e91302d2816cef9b141d4",
 		    "archiveFileName": "vega-bsp-d44ca6b5b52eb932f387bbc6bdf004760a36bfb3.tar.bz2",
-		    "size": "435937",
+		    "size": "436209",
 		    "architecture": "riscv",
 		    "boards": [
 			{"name": "VSDSquadron-Ultra"} 
