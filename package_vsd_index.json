@@ -19,7 +19,7 @@
 		    "size": "435937",
 		    "architecture": "riscv",
 		    "boards": [
-			{"name": "VSDSquadron Ultra"} 
+			{"name": "VSDSquadron-Ultra"} 
 		    ], 
 		    "toolsDependencies": [
 			{
@@ -180,6 +180,7 @@
 	}
     ]
 }
+
 
 
 
